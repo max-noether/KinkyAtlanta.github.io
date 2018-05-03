@@ -26,6 +26,12 @@ markdown: kramdown
 remote_theme: KinkyAtlanta/kinky-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  load_paths:
+    - _sass
+    - vendor
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

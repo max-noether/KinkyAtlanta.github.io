@@ -1,0 +1,12 @@
+[submodule "vendor/jquery"]
+	path = vendor/jquery
+	url = https://github.com/jquery/jquery
+[submodule "vendor/popper.js"]
+	path = vendor/popper.js
+	url = https://github.com/FezVrasta/popper.js/
+[submodule "vendor/bootstrap"]
+	path = vendor/bootstrap
+	url = https://github.com/twbs/bootstrap
+[submodule "vendor/Font-Awesome"]
+	path = vendor/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome
